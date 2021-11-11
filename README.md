@@ -1,2 +1,2 @@
 # StanStore-Portfolio
-An e-commerce project made by StanLachie.
+A React.ks e-commerce project made by StanLachie.
